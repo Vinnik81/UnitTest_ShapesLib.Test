@@ -1,0 +1,795 @@
+{
+  "ShapesLib.dll": {
+    "G:\\project\\ShapesLib\\ShapesLib\\Circle.cs": {
+      "ShapesLib.Circle": {
+        "System.Double ShapesLib.Circle::get_Radius()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Circle::get_Area()": {
+          "Lines": {
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.Void ShapesLib.Circle::.ctor(System.Double)": {
+          "Lines": {
+            "21": 8,
+            "22": 8,
+            "23": 8,
+            "24": 5,
+            "25": 5,
+            "27": 3,
+            "28": 3
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 23,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 4
+            },
+            {
+              "Line": 23,
+              "Offset": 18,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 23,
+              "Offset": 26,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 23,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 23,
+              "Offset": 39,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    },
+    "G:\\project\\ShapesLib\\ShapesLib\\Rectangle.cs": {
+      "ShapesLib.Rectangle": {
+        "System.Double ShapesLib.Rectangle::get_A()": {
+          "Lines": {
+            "11": 5
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Rectangle::get_B()": {
+          "Lines": {
+            "12": 5
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Rectangle::get_C()": {
+          "Lines": {
+            "13": 3
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Rectangle::get_D()": {
+          "Lines": {
+            "14": 3
+          },
+          "Branches": []
+        },
+        "System.Boolean ShapesLib.Rectangle::get_IsSquare()": {
+          "Lines": {
+            "16": 2
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 12,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 26,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 40,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Double ShapesLib.Rectangle::get_Area()": {
+          "Lines": {
+            "18": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean ShapesLib.Rectangle::IsRectangle(System.Double,System.Double,System.Double,System.Double)": {
+          "Lines": {
+            "54": 7,
+            "55": 7,
+            "56": 7
+          },
+          "Branches": [
+            {
+              "Line": 55,
+              "Offset": 5,
+              "EndOffset": 7,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 7
+            },
+            {
+              "Line": 55,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 7
+            },
+            {
+              "Line": 55,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 7
+            },
+            {
+              "Line": 55,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 7
+            },
+            {
+              "Line": 55,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 5
+            },
+            {
+              "Line": 55,
+              "Offset": 5,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 55,
+              "Offset": 11,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 55,
+              "Offset": 17,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 55,
+              "Offset": 23,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 55,
+              "Offset": 27,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void ShapesLib.Rectangle::.ctor(System.Double,System.Double,System.Double,System.Double)": {
+          "Lines": {
+            "20": 23,
+            "21": 23,
+            "22": 23,
+            "23": 5,
+            "24": 5,
+            "27": 18,
+            "28": 5,
+            "29": 5,
+            "32": 13,
+            "33": 5,
+            "34": 5,
+            "37": 8,
+            "38": 1,
+            "39": 1,
+            "42": 7,
+            "43": 2,
+            "44": 2,
+            "47": 5,
+            "48": 5,
+            "49": 5,
+            "50": 5,
+            "51": 5
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 20
+            },
+            {
+              "Line": 22,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 19
+            },
+            {
+              "Line": 22,
+              "Offset": 18,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 22,
+              "Offset": 26,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 22,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 22,
+              "Offset": 39,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 18
+            },
+            {
+              "Line": 27,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 15
+            },
+            {
+              "Line": 27,
+              "Offset": 71,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 14
+            },
+            {
+              "Line": 27,
+              "Offset": 63,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            },
+            {
+              "Line": 27,
+              "Offset": 71,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 4
+            },
+            {
+              "Line": 27,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 5
+            },
+            {
+              "Line": 27,
+              "Offset": 84,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 13
+            },
+            {
+              "Line": 32,
+              "Offset": 108,
+              "EndOffset": 110,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 10
+            },
+            {
+              "Line": 32,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 9
+            },
+            {
+              "Line": 32,
+              "Offset": 108,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 4
+            },
+            {
+              "Line": 32,
+              "Offset": 116,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 4
+            },
+            {
+              "Line": 32,
+              "Offset": 129,
+              "EndOffset": 131,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 5
+            },
+            {
+              "Line": 32,
+              "Offset": 129,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 8
+            },
+            {
+              "Line": 37,
+              "Offset": 154,
+              "EndOffset": 156,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 7
+            },
+            {
+              "Line": 37,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 7
+            },
+            {
+              "Line": 37,
+              "Offset": 154,
+              "EndOffset": 174,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 163,
+              "EndOffset": 174,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 177,
+              "EndOffset": 179,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 177,
+              "EndOffset": 191,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 7
+            },
+            {
+              "Line": 42,
+              "Offset": 208,
+              "EndOffset": 210,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 2
+            },
+            {
+              "Line": 42,
+              "Offset": 208,
+              "EndOffset": 222,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 5
+            }
+          ]
+        }
+      }
+    },
+    "G:\\project\\ShapesLib\\ShapesLib\\Triangle.cs": {
+      "ShapesLib.Triangle": {
+        "System.Double ShapesLib.Triangle::get_A()": {
+          "Lines": {
+            "17": 14
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Triangle::get_B()": {
+          "Lines": {
+            "21": 14
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Triangle::get_C()": {
+          "Lines": {
+            "25": 14
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Triangle::get_S()": {
+          "Lines": {
+            "29": 4
+          },
+          "Branches": []
+        },
+        "System.Double ShapesLib.Triangle::get_Area()": {
+          "Lines": {
+            "33": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean ShapesLib.Triangle::get_IsRight()": {
+          "Lines": {
+            "38": 2,
+            "39": 2,
+            "40": 2
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 112,
+              "EndOffset": 114,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 55,
+              "EndOffset": 173,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 112,
+              "EndOffset": 173,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Boolean ShapesLib.Triangle::IsExist(System.Double,System.Double,System.Double)": {
+          "Lines": {
+            "73": 9,
+            "74": 9,
+            "75": 9
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 5,
+              "EndOffset": 7,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 74,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 74,
+              "Offset": 5,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 74,
+              "Offset": 11,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void ShapesLib.Triangle::.ctor(System.Double,System.Double,System.Double)": {
+          "Lines": {
+            "48": 24,
+            "49": 24,
+            "50": 24,
+            "51": 5,
+            "52": 5,
+            "54": 19,
+            "55": 5,
+            "56": 5,
+            "58": 14,
+            "59": 5,
+            "60": 5,
+            "62": 9,
+            "63": 4,
+            "64": 4,
+            "67": 5,
+            "68": 5,
+            "69": 5,
+            "70": 5
+          },
+          "Branches": [
+            {
+              "Line": 50,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 21
+            },
+            {
+              "Line": 50,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 20
+            },
+            {
+              "Line": 50,
+              "Offset": 18,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 50,
+              "Offset": 26,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 50,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 50,
+              "Offset": 39,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 19
+            },
+            {
+              "Line": 54,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 16
+            },
+            {
+              "Line": 54,
+              "Offset": 71,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 15
+            },
+            {
+              "Line": 54,
+              "Offset": 63,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            },
+            {
+              "Line": 54,
+              "Offset": 71,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 4
+            },
+            {
+              "Line": 54,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 5
+            },
+            {
+              "Line": 54,
+              "Offset": 84,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 14
+            },
+            {
+              "Line": 58,
+              "Offset": 108,
+              "EndOffset": 110,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 11
+            },
+            {
+              "Line": 58,
+              "Offset": 116,
+              "EndOffset": 118,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 10
+            },
+            {
+              "Line": 58,
+              "Offset": 108,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 4
+            },
+            {
+              "Line": 58,
+              "Offset": 116,
+              "EndOffset": 126,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 4
+            },
+            {
+              "Line": 58,
+              "Offset": 129,
+              "EndOffset": 131,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 5
+            },
+            {
+              "Line": 58,
+              "Offset": 129,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 9
+            },
+            {
+              "Line": 62,
+              "Offset": 156,
+              "EndOffset": 158,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 4
+            },
+            {
+              "Line": 62,
+              "Offset": 156,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}
